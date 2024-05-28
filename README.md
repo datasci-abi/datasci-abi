@@ -1,4 +1,5 @@
-## Hi there 👋
+## Helloo 👋
+Hi there! I'm Abisek Raut, a passionate Data Analyst with a keen eye for detail and a love for turning raw data into actionable insights. With a strong foundation in data analysis, visualization, and machine learning, I thrive on uncovering patterns and stories hidden within data.
 
 <!--
 **datasci-abi/datasci-abi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
