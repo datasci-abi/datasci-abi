@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Air Quality in the Cloud, a Flask web app that displays current air quality data using Flask-SQLAlchemy for database management and requests to fetch data from an external API.**
+- 🔭 I’m currently working on **in-depth analysis of the CMS Payroll Based Journal (PBJ) Daily Nurse Staffing dataset (2024Q1) to provide insights into contractor usage across states and facilities. **
 
 - 🌱 I’m currently learning **Python, MySql, ML, NLP**
 
